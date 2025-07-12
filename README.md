@@ -1,4 +1,4 @@
-# Machine-learning-supervised-Learning-Regression-
+# Machine-learning:supervised-Learning-Regression Simple Linear Regression
 📄 Description:
 This project demonstrates the implementation of Simple Linear Regression using Python. It includes a step-by-step explanation of how to predict a dependent variable based on one independent variable.
 
